@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\новітні_мови_rust\rust_projects\to_do_list_app\target\debug\deps\libkeyboard_types-6d079a374b0a7e1b.rmeta: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\code.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\key.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\location.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\modifiers.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\shortcuts.rs
+
+C:\Users\User\Desktop\новітні_мови_rust\rust_projects\to_do_list_app\target\debug\deps\keyboard_types-6d079a374b0a7e1b.d: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\code.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\key.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\location.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\modifiers.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\shortcuts.rs
+
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\lib.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\code.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\key.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\location.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\modifiers.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.5.0\src\shortcuts.rs:
