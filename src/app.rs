@@ -61,8 +61,8 @@ impl ToDoListApp {
                         self.remove_task(task_name, task_state);
                     }
                     Action::Add() => {
-                        let scrool = Scroll::from_widget(self.window.child(0).unwrap());
-                        let flex_add = Flex::from_widget(scrool.child(0).unwrap());
+                        let scroll = Scroll::from_widget(self.window.child(0).unwrap());
+                        let flex_add = Flex::from_widget(scroll.child(0).unwrap());
                         let add_input = Input::from_widget(flex_add.child(0).unwrap());
 
                         self.add_task(&add_input.value(), "Not Done");
